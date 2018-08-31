@@ -13,4 +13,9 @@ public class SubmoduleObject {
         System.out.print( stringToPrint );
         System.out.print( stringToPrint );
     }
+
+    public void printlnTwice( String stringToPrint ) {
+        System.out.println( stringToPrint );
+        System.out.println( stringToPrint );
+    }
 }
