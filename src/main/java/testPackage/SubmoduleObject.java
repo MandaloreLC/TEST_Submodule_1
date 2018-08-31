@@ -1,3 +1,5 @@
+package testPackage;
+
 public class SubmoduleObject {
     public void print( String stringToPrint ) {
         System.out.print( stringToPrint );
