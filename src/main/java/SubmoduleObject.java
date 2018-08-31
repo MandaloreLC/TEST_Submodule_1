@@ -6,4 +6,9 @@ public class SubmoduleObject {
     public void println( String stringToPrint ) {
         System.out.println( stringToPrint );
     }
+
+    public void printTwice( String stringToPrint ) {
+        System.out.print( stringToPrint );
+        System.out.print( stringToPrint );
+    }
 }
