@@ -18,4 +18,10 @@ public class SubmoduleObject {
         System.out.println( stringToPrint );
         System.out.println( stringToPrint );
     }
+
+    public void printThrice( String stringToPrint ) {
+        System.out.print( stringToPrint );
+        System.out.print( stringToPrint );
+        System.out.print( stringToPrint );
+    }
 }
