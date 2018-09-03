@@ -24,4 +24,10 @@ public class SubmoduleObject {
         System.out.print( stringToPrint );
         System.out.print( stringToPrint );
     }
+
+    public void printlnThrice( String stringToPrint ) {
+        System.out.println( stringToPrint );
+        System.out.println( stringToPrint );
+        System.out.println( stringToPrint );
+    }
 }
